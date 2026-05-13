@@ -1,5 +1,6 @@
-This project was created for HW5.
 # Student Score Predictor
+
+**HW5 – Python GUI, Matplotlib, and Machine Learning Project**
 
 ## Project Overview
 
